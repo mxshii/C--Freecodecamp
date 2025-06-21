@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block II\bin\Debug\net7.0\Block II.exe
+C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block II\bin\Debug\net7.0\Block II.deps.json
+C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block II\bin\Debug\net7.0\Block II.runtimeconfig.json
+C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block II\bin\Debug\net7.0\Block II.dll
+C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block II\bin\Debug\net7.0\Block II.pdb
+C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block II\obj\Debug\net7.0\Block II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block II\obj\Debug\net7.0\Block II.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block II\obj\Debug\net7.0\Block II.AssemblyInfo.cs
+C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block II\obj\Debug\net7.0\Block II.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block II\obj\Debug\net7.0\Block II.dll
+C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block II\obj\Debug\net7.0\refint\Block II.dll
+C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block II\obj\Debug\net7.0\Block II.pdb
+C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block II\obj\Debug\net7.0\Block II.genruntimeconfig.cache
+C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block II\obj\Debug\net7.0\ref\Block II.dll
