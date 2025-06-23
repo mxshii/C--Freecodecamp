@@ -1,0 +1,15 @@
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\bin\Debug\net8.0\Guided Project I.exe
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\bin\Debug\net8.0\Guided Project I.deps.json
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\bin\Debug\net8.0\Guided Project I.runtimeconfig.json
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\bin\Debug\net8.0\Guided Project I.dll
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\bin\Debug\net8.0\Guided Project I.pdb
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\obj\Debug\net8.0\Guided Project I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\obj\Debug\net8.0\Guided Project I.AssemblyInfoInputs.cache
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\obj\Debug\net8.0\Guided Project I.AssemblyInfo.cs
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\obj\Debug\net8.0\Guided Project I.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\obj\Debug\net8.0\Guided Project I.sourcelink.json
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\obj\Debug\net8.0\Guided Project I.dll
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\obj\Debug\net8.0\refint\Guided Project I.dll
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\obj\Debug\net8.0\Guided Project I.pdb
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\obj\Debug\net8.0\Guided Project I.genruntimeconfig.cache
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Guided Project I\obj\Debug\net8.0\ref\Guided Project I.dll
