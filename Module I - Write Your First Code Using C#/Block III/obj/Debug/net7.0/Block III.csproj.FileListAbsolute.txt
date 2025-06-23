@@ -12,3 +12,18 @@ C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using 
 C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block III\obj\Debug\net7.0\Block III.pdb
 C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block III\obj\Debug\net7.0\Block III.genruntimeconfig.cache
 C:\Users\Admin\Documents\C# Freecodecamp\Module I - Write Your First Code Using C#\Block III\obj\Debug\net7.0\ref\Block III.dll
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\bin\Debug\net7.0\Block III.exe
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\bin\Debug\net7.0\Block III.deps.json
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\bin\Debug\net7.0\Block III.runtimeconfig.json
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\bin\Debug\net7.0\Block III.dll
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\bin\Debug\net7.0\Block III.pdb
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\obj\Debug\net7.0\Block III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\obj\Debug\net7.0\Block III.AssemblyInfoInputs.cache
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\obj\Debug\net7.0\Block III.AssemblyInfo.cs
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\obj\Debug\net7.0\Block III.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\obj\Debug\net7.0\Block III.sourcelink.json
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\obj\Debug\net7.0\Block III.dll
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\obj\Debug\net7.0\refint\Block III.dll
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\obj\Debug\net7.0\Block III.pdb
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\obj\Debug\net7.0\Block III.genruntimeconfig.cache
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block III\obj\Debug\net7.0\ref\Block III.dll

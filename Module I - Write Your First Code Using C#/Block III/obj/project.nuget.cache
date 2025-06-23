@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QgRsRhuJQlRGlTti3wXa6gKvAhQd+T3uF+ckp0DyDHHLVYJWjT8iAklrPo5IHuQtYwxD/RR4bthRcD8abyHFIA==",
+  "dgSpecHash": "2ur8d9b1c3A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\C# Freecodecamp\\Module I - Write Your First Code Using C#\\Block III\\Block III.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Omar\\Documents\\C--Freecodecamp\\Module I - Write Your First Code Using C#\\Block III\\Block III.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
