@@ -1,0 +1,15 @@
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\bin\Debug\net8.0\Block IV.exe
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\bin\Debug\net8.0\Block IV.deps.json
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\bin\Debug\net8.0\Block IV.runtimeconfig.json
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\bin\Debug\net8.0\Block IV.dll
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\bin\Debug\net8.0\Block IV.pdb
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\obj\Debug\net8.0\Block IV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\obj\Debug\net8.0\Block IV.AssemblyInfoInputs.cache
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\obj\Debug\net8.0\Block IV.AssemblyInfo.cs
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\obj\Debug\net8.0\Block IV.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\obj\Debug\net8.0\Block IV.sourcelink.json
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\obj\Debug\net8.0\Block IV.dll
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\obj\Debug\net8.0\refint\Block IV.dll
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\obj\Debug\net8.0\Block IV.pdb
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\obj\Debug\net8.0\Block IV.genruntimeconfig.cache
+C:\Users\Omar\Documents\C--Freecodecamp\Module I - Write Your First Code Using C#\Block IV\obj\Debug\net8.0\ref\Block IV.dll
