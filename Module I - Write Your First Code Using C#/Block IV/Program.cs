@@ -76,3 +76,96 @@ int first = 8;
 int second = 5;
 decimal quotient = (decimal)first / (decimal)second;
 Console.WriteLine(quotient);
+
+/*
+Write code to determine the remainder after integer division
+
+The modulus operator % tells you the remainder of int division. 
+What you really learn from this is whether one number is divisible by another. 
+This can be useful during long processing operations when looping through hundreds or thousands of data records 
+and you want to provide feedback to the end user after every 100 data records have been processed.
+*/
+
+//When the modulus is 0, that means the dividend is divisible by the divisor.
+
+Console.WriteLine($"Modulus of 200 / 5 : {200 % 5}");
+Console.WriteLine($"Modulus of 7 / 5 : {7 % 5}");
+
+//Unit 4 of 8 Increment and decrement values
+
+/*
+The += operator adds and assigns the value on the right of the operator to the value on the left of the operator. 
+So, lines two and three in the following code snippet are the same
+*/
+
+int value = 0;     // value is now 0.
+Console.WriteLine(value);
+value = value + 5; // value is now 5.
+Console.WriteLine(value);
+value += 5;        // value is now 10.
+Console.WriteLine(value);
+
+/*
+The ++ operator increments the value of the variable by 1. 
+So, lines two and three in the following code snippet are the same
+*/
+
+value++;           // value is now 11.
+Console.WriteLine(value);
+
+//Write code to increment and decrement a value
+int val = 1;
+
+val = val + 1;
+Console.WriteLine("First increment: " + val);
+
+val += 1;
+Console.WriteLine("Second increment: " + val);
+
+val++;
+Console.WriteLine("Third increment: " + val);
+
+val = val - 1;
+Console.WriteLine("First decrement: " + val);
+
+val -= 1;
+Console.WriteLine("Second decrement: " + val);
+
+val--;
+Console.WriteLine("Third decrement: " + val);
+
+
+/*
+Position the increment and decrement operators
+
+Both the increment and decrement operators have an interesting quality — depending on their position, 
+they perform their operation before or after they retrieve their value. In other words, 
+if you use the operator before the value as in ++value, 
+then the increment will happen before the value is retrieved. 
+Likewise, value++ will increment the value after the value has been retrieved.
+*/
+
+int valu = 1;
+valu++;
+Console.WriteLine("First: " + valu);
+Console.WriteLine($"Second: {valu++}");
+/*
+There's two steps to this line:
+
+Retrieve the current value of the variable value and use that in the string interpolation operation.
+Increment the value.
+*/
+
+Console.WriteLine("Third: " + valu);
+Console.WriteLine("Fourth: " + (++valu));
+/*
+Here, the order of operations is switched because the ++ operator is placed before the operand value.
+
+Increment the value.
+Retrieve the new incremented value of the variable value and use that in the string operation.
+*/
+
+//Unit 5 of 8 Complete Challenge
+int fahrenheit = 94;
+decimal celsius = ((decimal)fahrenheit - 32) * 5.0m / 9;
+Console.WriteLine($"The temperature is {celsius} Celsius.");
